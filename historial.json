@@ -1,0 +1,66 @@
+[
+  {
+    "ganador": "Zephyr",
+    "perdedor": "Titan",
+    "rondas": 1,
+    "log": [
+      "⚔️  COMBATE: Zephyr [StormBot] VS Titan [IronTitan]",
+      "   ATK 130 | DEF 90 | VEL 29  vs  ATK 53 | DEF 23 | VEL 33",
+      "────────────────────────────────────────────────────────────",
+      "\n  Ronda 1:",
+      "    Titan ataca → 1 daño | HP Zephyr: 179/180",
+      "    Zephyr contraataca → 124 daño | HP Titan: 0/122",
+      "\n🏆 ¡Zephyr gana el combate en 1 ronda(s)!"
+    ]
+  },
+  {
+    "ganador": "NEMESIS-X",
+    "perdedor": "YHOVANA",
+    "rondas": 4,
+    "log": [
+      "⚔️  COMBATE: YHOVANA [YHOVANA-Mecha] VS NEMESIS-X [NEMESIS-Core]",
+      "   ATK 53 | DEF 36 | VEL 18  vs  ATK 81 | DEF 28 | VEL 25",
+      "────────────────────────────────────────────────────────────",
+      "\n  Ronda 1:",
+      "    NEMESIS-X ataca → 51 daño | HP YHOVANA: 71/122",
+      "    YHOVANA contraataca → 16 daño | HP NEMESIS-X: 94/110",
+      "\n  Ronda 2:",
+      "    NEMESIS-X ataca → 32 daño | HP YHOVANA: 39/122",
+      "    YHOVANA contraataca → 28 daño | HP NEMESIS-X: 66/110",
+      "\n  Ronda 3:",
+      "    NEMESIS-X ataca → 38 daño | HP YHOVANA: 1/122",
+      "    YHOVANA contraataca → 15 daño | HP NEMESIS-X: 51/110",
+      "\n  Ronda 4:",
+      "    NEMESIS-X ataca → 55 daño | HP YHOVANA: 0/122",
+      "\n🏆 ¡NEMESIS-X gana el combate en 4 ronda(s)!"
+    ]
+  },
+  {
+    "ganador": "NEMESIS-X",
+    "perdedor": "TTT",
+    "rondas": 1,
+    "log": [
+      "⚔️  COMBATE: TTT [TTT-Mecha] VS NEMESIS-X [NEMESIS-Core]",
+      "   ATK 14 | DEF 10 | VEL 36  vs  ATK 150 | DEF 67 | VEL 14",
+      "────────────────────────────────────────────────────────────",
+      "\n  Ronda 1:",
+      "    TTT ataca → 1 daño | HP NEMESIS-X: 121/122",
+      "    NEMESIS-X contraataca → 148 daño | HP TTT: 0/110",
+      "\n🏆 ¡NEMESIS-X gana el combate en 1 ronda(s)!"
+    ]
+  },
+  {
+    "ganador": "Zephyr",
+    "perdedor": "Titan",
+    "rondas": 1,
+    "log": [
+      "⚔️  COMBATE: Zephyr [StormBot] VS Titan [IronTitan]",
+      "   ATK 130 | DEF 90 | VEL 29  vs  ATK 53 | DEF 23 | VEL 33",
+      "────────────────────────────────────────────────────────────",
+      "\n  Ronda 1:",
+      "    Titan ataca → 1 daño | HP Zephyr: 179/180",
+      "    Zephyr contraataca → 127 daño | HP Titan: 0/122",
+      "\n🏆 ¡Zephyr gana el combate en 1 ronda(s)!"
+    ]
+  }
+]
