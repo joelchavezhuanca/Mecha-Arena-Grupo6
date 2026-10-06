@@ -1,0 +1,452 @@
+[
+  {
+    "nombre": "Zephyr",
+    "victorias": 1,
+    "derrotas": 0,
+    "mecha": {
+      "nombre": "StormBot",
+      "componentes": [
+        {
+          "nombre": "Reactor Celestial",
+          "tipo": "TORSO",
+          "rareza": "LEGENDARIO",
+          "bonus_ataque": 15,
+          "bonus_defensa": 40,
+          "peso": 30.0
+        },
+        {
+          "nombre": "Hacha del Apocalipsis",
+          "tipo": "ARMA",
+          "rareza": "LEGENDARIO",
+          "bonus_ataque": 50,
+          "bonus_defensa": 5,
+          "peso": 12.0
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "Titan",
+    "victorias": 0,
+    "derrotas": 1,
+    "mecha": {
+      "nombre": "IronTitan",
+      "componentes": [
+        {
+          "nombre": "Torso Blindado",
+          "tipo": "TORSO",
+          "rareza": "RARO",
+          "bonus_ataque": 4,
+          "bonus_defensa": 18,
+          "peso": 25.0
+        },
+        {
+          "nombre": "Rifle de Antimateria",
+          "tipo": "ARMA",
+          "rareza": "EPICO",
+          "bonus_ataque": 30,
+          "bonus_defensa": 1,
+          "peso": 9.0
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "YOHVANA",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": null
+  },
+  {
+    "nombre": "YHOVANA",
+    "victorias": 0,
+    "derrotas": 2,
+    "mecha": {
+      "nombre": "YHOVANA-Mecha",
+      "componentes": [
+        {
+          "nombre": "Visor Básico",
+          "tipo": "CABEZA",
+          "rareza": "COMUN",
+          "bonus_ataque": 5,
+          "bonus_defensa": 3,
+          "peso": 8.0
+        },
+        {
+          "nombre": "Coraza Ligera",
+          "tipo": "TORSO",
+          "rareza": "COMUN",
+          "bonus_ataque": 2,
+          "bonus_defensa": 10,
+          "peso": 20.0
+        },
+        {
+          "nombre": "Brazo Estándar Izq",
+          "tipo": "BRAZO_IZQ",
+          "rareza": "COMUN",
+          "bonus_ataque": 6,
+          "bonus_defensa": 2,
+          "peso": 10.0
+        },
+        {
+          "nombre": "Cañón Básico",
+          "tipo": "ARMA",
+          "rareza": "COMUN",
+          "bonus_ataque": 12,
+          "bonus_defensa": 0,
+          "peso": 8.0
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "TTT",
+    "victorias": 0,
+    "derrotas": 1,
+    "mecha": {
+      "nombre": "TTT-Mecha",
+      "componentes": [
+        {
+          "nombre": "Coraza Ligera",
+          "tipo": "TORSO",
+          "rareza": "COMUN",
+          "bonus_ataque": 2,
+          "bonus_defensa": 10,
+          "peso": 20.0
+        },
+        {
+          "nombre": "Cañón Básico",
+          "tipo": "ARMA",
+          "rareza": "COMUN",
+          "bonus_ataque": 12,
+          "bonus_defensa": 0,
+          "peso": 8.0
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "YH",
+    "victorias": 1,
+    "derrotas": 0,
+    "mecha": {
+      "nombre": "YH-Mecha",
+      "componentes": [
+        {
+          "nombre": "Garra Mecánica Izq",
+          "tipo": "BRAZO_IZQ",
+          "rareza": "EPICO",
+          "bonus_ataque": 16,
+          "bonus_defensa": 6,
+          "peso": 14.0
+        },
+        {
+          "nombre": "Lanzador de Cohetes",
+          "tipo": "BRAZO_DER",
+          "rareza": "EPICO",
+          "bonus_ataque": 20,
+          "bonus_defensa": 3,
+          "peso": 15.0
+        },
+        {
+          "nombre": "Piernas Turbo",
+          "tipo": "PIERNAS",
+          "rareza": "RARO",
+          "bonus_ataque": 3,
+          "bonus_defensa": 6,
+          "peso": 14.0
+        },
+        {
+          "nombre": "Rifle de Antimateria",
+          "tipo": "ARMA",
+          "rareza": "EPICO",
+          "bonus_ataque": 30,
+          "bonus_defensa": 1,
+          "peso": 9.0
+        },
+        {
+          "nombre": "Coraza Ligera",
+          "tipo": "TORSO",
+          "rareza": "COMUN",
+          "bonus_ataque": 2,
+          "bonus_defensa": 10,
+          "peso": 20.0
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "DANI",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": {
+      "nombre": "DANI-Mecha",
+      "componentes": [
+        {
+          "nombre": "Visor Básico",
+          "tipo": "CABEZA",
+          "rareza": "COMUN",
+          "bonus_ataque": 5,
+          "bonus_defensa": 3,
+          "peso": 8.0
+        },
+        {
+          "nombre": "Coraza Ligera",
+          "tipo": "TORSO",
+          "rareza": "COMUN",
+          "bonus_ataque": 2,
+          "bonus_defensa": 10,
+          "peso": 20.0
+        },
+        {
+          "nombre": "Brazo Estándar Izq",
+          "tipo": "BRAZO_IZQ",
+          "rareza": "COMUN",
+          "bonus_ataque": 6,
+          "bonus_defensa": 2,
+          "peso": 10.0
+        },
+        {
+          "nombre": "Brazo Estándar Der",
+          "tipo": "BRAZO_DER",
+          "rareza": "COMUN",
+          "bonus_ataque": 6,
+          "bonus_defensa": 2,
+          "peso": 10.0
+        },
+        {
+          "nombre": "Piernas Básicas",
+          "tipo": "PIERNAS",
+          "rareza": "COMUN",
+          "bonus_ataque": 2,
+          "bonus_defensa": 4,
+          "peso": 15.0
+        },
+        {
+          "nombre": "Rifle de Antimateria",
+          "tipo": "ARMA",
+          "rareza": "EPICO",
+          "bonus_ataque": 30,
+          "bonus_defensa": 1,
+          "peso": 9.0
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "DAS",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": {
+      "nombre": "DAS-Mecha",
+      "componentes": [
+        {
+          "nombre": "Piernas Básicas",
+          "tipo": "PIERNAS",
+          "rareza": "COMUN",
+          "bonus_ataque": 2,
+          "bonus_defensa": 4,
+          "peso": 15.0
+        },
+        {
+          "nombre": "Visor Básico",
+          "tipo": "CABEZA",
+          "rareza": "COMUN",
+          "bonus_ataque": 5,
+          "bonus_defensa": 3,
+          "peso": 8.0
+        },
+        {
+          "nombre": "Coraza Ligera",
+          "tipo": "TORSO",
+          "rareza": "COMUN",
+          "bonus_ataque": 2,
+          "bonus_defensa": 10,
+          "peso": 20.0
+        },
+        {
+          "nombre": "Brazo Reforzado Izq",
+          "tipo": "BRAZO_IZQ",
+          "rareza": "RARO",
+          "bonus_ataque": 10,
+          "bonus_defensa": 4,
+          "peso": 12.0
+        },
+        {
+          "nombre": "Lanzador de Cohetes",
+          "tipo": "BRAZO_DER",
+          "rareza": "EPICO",
+          "bonus_ataque": 20,
+          "bonus_defensa": 3,
+          "peso": 15.0
+        },
+        {
+          "nombre": "Hacha del Apocalipsis",
+          "tipo": "ARMA",
+          "rareza": "LEGENDARIO",
+          "bonus_ataque": 50,
+          "bonus_defensa": 5,
+          "peso": 12.0
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "FEGH",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": {
+      "nombre": "FEGH-Mecha",
+      "componentes": [
+        {
+          "nombre": "Visor Básico",
+          "tipo": "CABEZA",
+          "rareza": "COMUN",
+          "bonus_ataque": 5,
+          "bonus_defensa": 3,
+          "peso": 8.0
+        },
+        {
+          "nombre": "Piernas Básicas",
+          "tipo": "PIERNAS",
+          "rareza": "COMUN",
+          "bonus_ataque": 2,
+          "bonus_defensa": 4,
+          "peso": 15.0
+        },
+        {
+          "nombre": "Lanzador de Cohetes",
+          "tipo": "BRAZO_DER",
+          "rareza": "EPICO",
+          "bonus_ataque": 20,
+          "bonus_defensa": 3,
+          "peso": 15.0
+        },
+        {
+          "nombre": "Rifle de Antimateria",
+          "tipo": "ARMA",
+          "rareza": "EPICO",
+          "bonus_ataque": 30,
+          "bonus_defensa": 1,
+          "peso": 9.0
+        },
+        {
+          "nombre": "Espada de Plasma",
+          "tipo": "ARMA",
+          "rareza": "RARO",
+          "bonus_ataque": 20,
+          "bonus_defensa": 2,
+          "peso": 6.0
+        },
+        {
+          "nombre": "Coraza Ligera",
+          "tipo": "TORSO",
+          "rareza": "COMUN",
+          "bonus_ataque": 2,
+          "bonus_defensa": 10,
+          "peso": 20.0
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "NEMESIS-X",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": {
+      "nombre": "NEMESIS-Core",
+      "componentes": [
+        {
+          "nombre": "Torso Blindado",
+          "tipo": "TORSO",
+          "rareza": "RARO",
+          "bonus_ataque": 4,
+          "bonus_defensa": 18,
+          "peso": 25.0
+        },
+        {
+          "nombre": "Hacha del Apocalipsis",
+          "tipo": "ARMA",
+          "rareza": "LEGENDARIO",
+          "bonus_ataque": 50,
+          "bonus_defensa": 5,
+          "peso": 12.0
+        },
+        {
+          "nombre": "Casco de Reconocimiento",
+          "tipo": "CABEZA",
+          "rareza": "RARO",
+          "bonus_ataque": 8,
+          "bonus_defensa": 5,
+          "peso": 9.0
+        },
+        {
+          "nombre": "Brazo Reforzado Der",
+          "tipo": "BRAZO_DER",
+          "rareza": "RARO",
+          "bonus_ataque": 10,
+          "bonus_defensa": 4,
+          "peso": 12.0
+        },
+        {
+          "nombre": "Piernas Turbo",
+          "tipo": "PIERNAS",
+          "rareza": "RARO",
+          "bonus_ataque": 3,
+          "bonus_defensa": 6,
+          "peso": 14.0
+        },
+        {
+          "nombre": "Brazo Reforzado Izq",
+          "tipo": "BRAZO_IZQ",
+          "rareza": "RARO",
+          "bonus_ataque": 10,
+          "bonus_defensa": 4,
+          "peso": 12.0
+        }
+      ]
+    }
+  },
+  {
+    "nombre": "RR",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": null
+  },
+  {
+    "nombre": "ty",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": null
+  },
+  {
+    "nombre": "liuytre",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": null
+  },
+  {
+    "nombre": "JMNHGF",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": null
+  },
+  {
+    "nombre": "SDFGHJKL",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": null
+  },
+  {
+    "nombre": "fghju",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": null
+  },
+  {
+    "nombre": "dddd",
+    "victorias": 0,
+    "derrotas": 0,
+    "mecha": null
+  }
+]
